@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Matthew Karsten
-    url: 'http://expertvagabond.com/author/matthewkarsten/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://expertvagabond.com'
-  name: Expert Vagabond
-  favicon: 'http://expertvagabond.com/favicon.ico'
-  domain: expertvagabond.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - travel
   - world
@@ -26,18 +20,25 @@ description: >-
   along the way. It all started when I took a one-way flight from Miami to
   Guatemala City, leaping nervously into the unknown and leaving much of my old
   life behind while embarking on an epic travel adventure around the world.
-inLanguage: en
+datePublished: '2016-08-29T18:43:37.643Z'
+dateModified: '2016-08-29T18:42:03.927Z'
+author:
+  - name: Matthew Karsten
+    url: 'http://expertvagabond.com/author/matthewkarsten/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://expertvagabond.com/best-travel-tips/'
 title: My 30 Best Travel Tips After 4 Years Traveling The World
-datePublished: '2016-08-29T18:42:00.072Z'
-dateModified: '2016-08-29T18:39:02.087Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-my-30-best-travel-tips-after-4-years-traveling-the-world.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Expert Vagabond
+  domain: expertvagabond.com
+  url: 'http://expertvagabond.com'
+  favicon: 'http://expertvagabond.com/favicon.ico'
+starred: false
+url: my-30-best-travel-tips-after-4-years-traveling-the-world/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
