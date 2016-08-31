@@ -65,14 +65,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=yrwtexpqLW8'
 title: '12 Travel Packing Tips: Howdini Hacks'
-datePublished: '2016-08-29T18:29:29.675Z'
-dateModified: '2016-08-29T17:09:37.434Z'
+datePublished: '2016-08-29T18:30:51.398Z'
+dateModified: '2016-08-29T18:30:38.736Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-12-travel-packing-tips-howdini-hacks.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
